@@ -1,0 +1,10 @@
+elasticsearch==8.11.0
+PySastrawi
+requests
+beautifulsoup4
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+streamlit
